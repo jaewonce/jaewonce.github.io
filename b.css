@@ -1,0 +1,100 @@
+@charset "utf-8";
+.navbar {
+    background: #bfbec5;
+    margin: 50px;
+    padding: 0;
+    list-style: none;
+    position: fixed;
+    width: 100%;
+    opacity:0.9;
+}
+
+.navbar > li {
+    display: inline-block;
+}
+
+.navbar > li > a {
+    display: block;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: #ffffff;
+}
+
+.navbar > li > a:hover {
+    background: #9d8e87;
+}
+#top {
+    margin-top: 
+    clear: both;
+    height: 100px;
+    background-color: #f7bd8f;
+}
+#tothetop {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    cursor: pointer;
+}
+
+#t {
+    margin-top: 16px;
+    clear: both;
+    height: 100px;
+    background-color: #e95464;
+}
+#A {
+    margin-top: 16px;
+    clear: both;
+    height: 100px;
+    background-color: #e95464;
+}
+
+#a {
+    margin-top: 16px;
+    clear: both;
+    height: 100px;
+    background-color: #fff352;
+}
+
+#b {
+    margin-top: 16px;
+    clear: both;
+    height: 100px;
+    background-color: #bbdbf3;
+}
+#c {
+    margin-top: 16px;
+    clear: both;
+    height: 100px;
+    background-color: #e0ebaf;
+}
+#d {
+    margin-top: 16px;
+    clear: both;
+    height: 100px;
+    background-color: #e0ebaf;
+}
+#e {
+    margin-top: 16px;
+    clear: both;
+    height: 100px;
+    background-color: #e0ebaf;
+}
+#f {
+    margin-top: 16px;
+    clear: both;
+    height: 100px;
+    background-color: #e0ebaf;
+}
+#g {
+    margin-top: 16px;
+    clear: both;
+    height: 100px;
+    background-color: #e0ebaf;
+}
+#h {
+    margin-top: 16px;
+    clear: both;
+    height: 100px;
+    background-color: #e0ebaf;
+}
